@@ -1,0 +1,6 @@
+C:\Users\SAMSUNG\Desktop\Vaka_project\Vaka_project\bin\Debug\Vaka_project.exe.config
+C:\Users\SAMSUNG\Desktop\Vaka_project\Vaka_project\obj\Debug\Vaka_project.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\Vaka_project\Vaka_project\bin\Debug\Vaka_project.exe
+C:\Users\SAMSUNG\Desktop\Vaka_project\Vaka_project\bin\Debug\Vaka_project.pdb
+C:\Users\SAMSUNG\Desktop\Vaka_project\Vaka_project\obj\Debug\Vaka_project.exe
+C:\Users\SAMSUNG\Desktop\Vaka_project\Vaka_project\obj\Debug\Vaka_project.pdb
